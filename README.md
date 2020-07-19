@@ -24,23 +24,18 @@ Multi-child window application with static header:
 
 ![Alt text](Images/gui_header.png)
 
-Laser power controler:
+Raster image scanning parameters, and example live image:
 
-![Alt text](Images/power_ctrl.png)
+![Alt text](Images/raster.png) ![Alt text](Images/pollen.png)
 
-Raster image scanning parameters, and Z Stacks and XY Stitching control:
+Other control options.  Laser power and Scanning FCS parameters:
 
-![Alt text](Images/raster.png)![Alt text](Images/stack_stitch.png)
+![Alt text](Images/power_ctrl.png)   ![Alt text](Images/sfcs.png)
 
-Live window and stage control:
+Z Stack and XY Stitch control and stage controller:
+![Alt text](Images/stack_stitch.png)![Alt text](Images/stage_ctrl.png)
 
-![Alt text](Images/pollen.png) ![Alt text](Images/stage_ctrl.png)
-
-Scanning FCS control:
-
-![Alt text](Images/sfcs.png)
-
-Non-Linear display toggle for bridge and dim samples:
+Non-Linear display toggle for bright and dim samples:
 
 ![Alt text](Images/non-linear_display.png)
 

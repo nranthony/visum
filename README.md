@@ -33,6 +33,7 @@ Other control options.  Laser power and Scanning FCS parameters:
 ![Alt text](Images/power_ctrl.png)   ![Alt text](Images/sfcs.png)
 
 Z Stack and XY Stitch control and stage controller:
+
 ![Alt text](Images/stack_stitch.png)![Alt text](Images/stage_ctrl.png)
 
 Non-Linear display toggle for bright and dim samples:

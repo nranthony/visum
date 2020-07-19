@@ -11,14 +11,14 @@ Laser scanning microscope control software GUI written in Pascal using LabView N
 3. Custom Tif Files
 4. Laser Scanning Hardware Control
 
-##1. Code Sections
+## 1. Code Sections
 Workflow and interactions of different files within the project.  Includes background high priority acquire thread.
 
 ![Alt text](Images/code_sections_key.png)![Alt text](Images/code_sections_all.png)
 ![Alt text](Images/code_sections.png)
 
 
-##2. GUI Features
+## 2. GUI Features
 
 Multi-child window application with static header:
 
@@ -40,3 +40,6 @@ Non-Linear display toggle for bright and dim samples:
 
 ![Alt text](Images/non-linear_display.png)
 
+## 3. Custom Tif Files
+
+Modified Tiff 6 standard to add metadata to additional custom tag:

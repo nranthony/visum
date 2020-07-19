@@ -43,3 +43,6 @@ Non-Linear display toggle for bright and dim samples:
 ## 3. Custom Tif Files
 
 Modified Tiff 6 standard to add metadata to additional custom tag:
+
+![Alt text](CustomTif/TIFFFiles.png)
+

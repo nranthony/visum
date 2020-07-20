@@ -6,7 +6,7 @@ Laser scanning microscope control software GUI written in Pascal using LabView N
 
 # Contents
 
-[1. Code Sections](#-1.-Code-Sections)
+[1. Code Sections](#1.-Code-Sections)
 
 [2. GUI Features](#-2.-GUI-Features)
 
@@ -14,7 +14,7 @@ Laser scanning microscope control software GUI written in Pascal using LabView N
 
 [4. Laser Scanning Hardware Control](#-4.-Laser-Scanning-Hardware-Control)
 
-# 1. Code Sections
+#1. Code Sections
 Workflow and interactions of different files within the project.  Includes background high priority acquire thread.
 
 ![Alt text](Images/code_sections_key.png)![Alt text](Images/code_sections_all.png)

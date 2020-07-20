@@ -6,13 +6,13 @@ Laser scanning microscope control software GUI written in Pascal using LabView N
 
 # Contents
 
-[1. Code Sections](#1.-Code-Sections)
+[1. Code Sections](#-1.-Code-Sections)
 
-[2. GUI Features](#2.-GUI-Features)
+[2. GUI Features](#-2.-GUI-Features)
 
-[3. Custom Tif Files](#3.-Custom-Tif-Files)
+[3. Custom Tif Files](#-3.-Custom-Tif-Files)
 
-[4. Laser Scanning Hardware Control](#4.-Laser-Scanning-Hardware-Control)
+[4. Laser Scanning Hardware Control](#-4.-Laser-Scanning-Hardware-Control)
 
 # 1. Code Sections
 Workflow and interactions of different files within the project.  Includes background high priority acquire thread.
@@ -20,7 +20,7 @@ Workflow and interactions of different files within the project.  Includes backg
 ![Alt text](Images/code_sections_key.png)![Alt text](Images/code_sections_all.png)
 ![Alt text](Images/code_sections.png)
 
-[Back To Contents](#Contents)
+[Back To Contents](#-Contents)
 
 # 2. GUI Features
 
@@ -44,7 +44,7 @@ Non-Linear display toggle for bright and dim samples:
 
 ![Alt text](Images/non-linear_display.png)
 
-[Back To Contents](#Contents)
+[Back To Contents](#-Contents)
 
 # 3. Custom Tif Files
 
@@ -52,7 +52,7 @@ Modified Tiff 6 standard to add metadata to additional custom tag.  Tag 48000 ad
 
 ![Alt text](CustomTif/TIFFFiles.png)
 
-[Back To Contents](#Contents)
+[Back To Contents](#-Contents)
 
 # 4. Laser Scanning Hardware Control
 
@@ -68,5 +68,5 @@ Linear ramps with sinusoidal flybacks for faster smooth galvo scanning:
 
 ![Alt text](ScanControl/Visio-OverclockedCounters3-5x5Example.png)
 
-[Back To Contents](#Contents)
+[Back To Contents](#-Contents)
 

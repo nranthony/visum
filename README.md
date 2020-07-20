@@ -42,7 +42,7 @@ Non-Linear display toggle for bright and dim samples:
 
 ## 3. Custom Tif Files
 
-Modified Tiff 6 standard to add metadata to additional custom tag:
+Modified Tiff 6 standard to add metadata to additional custom tag.  Tag 48000 added to the end of the standard tags.  Single data block contains structure µm width, height, residence time, line and frame settle times, wavelength, and laser power.  See TIFFControl.pas for code details.
 
 ![Alt text](CustomTif/TIFFFiles.png)
 

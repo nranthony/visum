@@ -46,3 +46,19 @@ Modified Tiff 6 standard to add metadata to additional custom tag.  Tag 48000 ad
 
 ![Alt text](CustomTif/TIFFFiles.png)
 
+## 4. Laser Scanning Hardware Control
+
+Standard pixel line and frame synchronized clocks:
+
+![Alt text](ScanControl/CounterPulseGeneration2.png)
+
+Linear ramps with sinusoidal flybacks for faster smooth galvo scanning:
+
+![Alt text](ScanControl/OverclockedCounters3.png)
+
+5x5 image example:
+
+![Alt text](ScanControl/Visio-OverclockedCounters3-5x5Example.png)
+
+
+
